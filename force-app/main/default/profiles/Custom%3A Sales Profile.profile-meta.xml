@@ -6005,6 +6005,7 @@
         <tab>standard-report</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
+    <login Hours n1: nil="true" />
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>false</enabled>
